@@ -20,7 +20,6 @@ The original Mendelmax had following key features:</p>
 <p>360x300mm Heatbed <br>
 10mm Rod`s <br>
 8mm Trapezoid spindle (TR 8x1,5) <br>
-one Z-Stepper with Belt to move both Z axis <br>
 controlled by a Sanguinololu 1.3a board</p>
 
 <p><strong>What are noticeable spec`s</strong></p>
