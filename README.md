@@ -1,5 +1,11 @@
 <p><strong>What is Quadmax ?</strong> <br>
-Quadmax was a project to “convert” a large Mendelmax 3D printer with moving Y-moving bed to a printer with a Z-moving bed</p>
+Quadmax was a project from 2014 to convert a large Mendelmax 3D printer with moving Y-moving bed to a printer with a Z-moving bed</p>
+
+<p align=center>from extra wide Mendelmax to Quadmax</p>
+<p align=center> <img src="https://github.com/Chrisu02/Quadmax/blob/master/image/xwidemendelmax.jpg?raw=true" height="350" width="390"> <img src="https://github.com/Chrisu02/Quadmax/blob/master/image/construction_1.jpg?raw=true"  height="350" width="390">
+ 
+ <p><strong>What software has been used</strong> <br>
+For designing the printer Google Sketchup v8 has been used</p>
 
 <p><strong>Why do want to do that ?</strong> <br>
 Thats simple, reducing the weight of the moving masses which results in faster and better printing.</p>
