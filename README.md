@@ -11,7 +11,7 @@ For designing the printer Google Sketchup v8 has been used</p>
 Not really, this project was already done 2014 and i don`t own the printer anymore<br>
 but everywone who want to can work further on this project </p> 
 
-<p><strong>Why do want to do that ?</strong> <br>
+<p><strong>Why do you want to do that ?</strong> <br>
 Thats simple, reducing the weight of the moving masses which results in faster and better printing.</p>
 
 <p><strong>What was the base Mandelmax of ?</strong> <br>
